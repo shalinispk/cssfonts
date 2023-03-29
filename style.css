@@ -1,0 +1,41 @@
+body{
+	font-style:italic;
+	font-weight:normal;
+	font-size:25px;
+	font-family:georgian,serif,sans-serif;
+}
+/* body{  */
+/* font:normal bold 15px serif,sans-serif; */
+/* } */
+h2,h4{
+	text-transform:capitalize;
+}
+p{
+text-indent:40px;
+letter-spacing:0.01em;
+word-spacing:0.1em;
+line-height:1.5em;
+}
+h2{
+text-shadow:10px 10px pink;	
+}
+h2{
+text-shadow:10px 10px 6px pink;	
+}
+h2{
+	text-decoration:underline red dashed 2px
+}
+h4{
+	text-decoration:underline green solid 2px
+    
+}
+
+div{
+	text-align:justify;
+}
+.shalini p {
+text-align:right;	
+}
+
+
+
